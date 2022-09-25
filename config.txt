@@ -3,3 +3,5 @@ hallå hallå
 tjaba tjena hallå
 mera grejs
 grejs hej hej
+
+more config values
